@@ -1,0 +1,42 @@
+div.background {
+	background-color: white;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+div.logo {
+    position: absolute;
+    margin: 1%;
+    left: 0%;
+    height: 10%;
+}
+
+div.bar {
+	background-color: #004a8f;
+    position: absolute;
+    margin: 1%;
+    right: 0%;
+    height: 8.5%;
+    width: 20px;
+}
+
+div.bar_title {
+	background-color: #004a8f;
+	position: absolute;
+    margin: 0%;
+    left: -1.4%;
+    height: 85%;
+    width: 20px;
+}
+
+div.header {
+    position: absolute;
+    margin: 1%;
+    text-align: right;
+    right: 30px;
+}
+/*table settings*/
+/*th, td {
+  	font-size: 150%;
+}*/
